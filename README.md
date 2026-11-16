@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="bidhubhusan_github_banner.jpg" width="100%" alt="Bidhubhusan Rath - Computer Science and Bioinformatics"/>
+  <img src="./bidhubhusan_github_banner.jpg"
+       width="100%"
+       alt="Bidhubhusan Rath - Computer Science and Bioinformatics">
 </p>
 # Hi, I'm Bidhubhusan Rath 👋
 
