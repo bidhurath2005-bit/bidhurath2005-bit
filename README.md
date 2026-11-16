@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="bidhubhusan_github_banner.jpg" width="100%" alt="Bidhubhusan Rath - Computer Science and Bioinformatics"/>
+</p>
 # Hi, I'm Bidhubhusan Rath 👋
 
 🎓 Computer Science student specializing in Bioinformatics at Vellore Institute of Technology (VIT).
